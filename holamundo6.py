@@ -31,3 +31,6 @@ Cada renglon debe ser una lista, es decir.
 [100]
 [94, 94]
 [89, 89, 89]
+
+
+lalalalalallaa
