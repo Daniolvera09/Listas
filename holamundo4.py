@@ -95,3 +95,20 @@ print("Resumen de estadisticas:")
 for i in range(len(estadisticas)):
     print(estadisticas[i], totales[i])
 
+
+#Tarea instalar Jupyter Notebook 
+
+#Hacer una codigo de lista que va hacer una sublista con codigo aeronoutico. 
+
+Ejemplo: 
+#Codigo = [['A' 'ALFA'], ['B' 'BRAW'],.... ]
+
+#Leer codigo: Dani
+#DELTA, ALFA, NOVEMBER, INDIA
+
+
+
+
+
+
+
